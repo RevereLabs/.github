@@ -37,10 +37,9 @@ We introduce a **No-code Smart-Contract based Escrow system**:
 - **Smart-Contract:** Smart Contracts are a bunch of code deployed on the blockchain. As the popular saying goes — anything that goes on the blockchain, stays on the blockchain. They guarantee a fund-release if and when the gig is completed, or a refund to client in case the gig isn’t completed.
 - **Escrow system:** An Escrow is a legal entity that acts like a judge between the two parties. Is the escrow reliable? When they’re humans - maybe not. But when they’re pieces of code - 100%.
 
-<aside>
+
 ⭐ Escrow + No-code + Smart Contract = **RevereLabs**
 
-</aside>
 
 ## Salient features of RevereLabs
 
