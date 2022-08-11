@@ -105,5 +105,3 @@ The introduction of blockchain technology opens the doors for revenue generation
 
 ## Accomplishments that we're proud of
 → Fellowship with States DAO
-
-## What's next for RevereLabs
